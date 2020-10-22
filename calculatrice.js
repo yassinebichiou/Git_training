@@ -21,3 +21,4 @@ var pl =  (document.getElementById("pl").value)
 var Somme = Number;
 pl=tab[1]+tab[2];
 console.log(Somme);
+ console.log()
